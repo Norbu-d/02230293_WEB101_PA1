@@ -1,4 +1,4 @@
-# Facebook Clone - React Project
+# Facebook-web - React Project
 
 ## Overview
 This project is a **Facebook clone** built using **React**, **Tailwind CSS**, and **TypeScript**. It replicates the core features of Facebook, including a responsive header, a post feed, stories, and a sidebar with navigation and contacts. I learned how to structure a React application, manage state, and create reusable components. Additionally, I implemented responsive design using Tailwind CSS and integrated TypeScript for type safety.
